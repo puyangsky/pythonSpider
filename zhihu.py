@@ -40,4 +40,4 @@ def login(baseurl,email,password):
     f.write(s.text.encode('utf-8'))
 url = "http://www.zhihu.com"
 
-login(url,"puyangsky@163.com","pyt19940524")
+login(url,"******@***.com","************")
